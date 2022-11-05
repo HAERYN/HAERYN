@@ -13,11 +13,17 @@ Just one of the developer in Korea.
 <!-- 언어 사용량 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAERYN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- 주요 레포 -->
+<a href="https://github.com/2022-SeongNam-Team-C/Ladder-Frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2022-SeongNam-Team-C&repo=Ladder-Frontend" />
+</a>
+
+<a href="https://github.com/2022-SeongNam-Team-C/Ladder-Backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2022-SeongNam-Team-C&repo=Ladder-Backend" />
+</a>
+
 
 <a href="https://github.com/HAERYN/Mymemo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HAERYN&repo=Mymemo"/>
 </a>
 
-<a href="https://github.com/2022-SeongNam-Team-C/Ladder-Frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2022-SeongNam-Team-C&repo=Ladder-Frontend" />
-</a>
