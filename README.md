@@ -19,6 +19,6 @@ Just one of the developer in Korea.
 </a>
 
 
-<a href="https://github.com/HAERYN/Mymemo">
+<a href="https://github.com/2022-SeongNam-Team-C">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HAERYN&repo=Mymemo" />
 </a>
