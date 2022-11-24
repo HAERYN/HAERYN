@@ -18,8 +18,8 @@ Just one of the developer in Korea.
 
 <!-- 주요 레포 -->
 #### <팀 프로젝트>
-
-#### Ladder Project
+***
+### Ladder Project
 <a href="https://github.com/2022-SeongNam-Team-C/Ladder-Frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2022-SeongNam-Team-C&repo=Ladder-Frontend" />
 </a>
@@ -28,7 +28,7 @@ Just one of the developer in Korea.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2022-SeongNam-Team-C&repo=Ladder-Backend" />
 </a>
 
-#### Tab Project
+### Tab Project
 <a href="https://github.com/Techeer3-Spring-Study/TAB-Frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Techeer3-Spring-Study&repo=TAB-Frontend" />
 </a>
