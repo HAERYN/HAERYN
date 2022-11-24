@@ -42,7 +42,7 @@ Just one of the developer in Korea.
 </a>
 
 
-#### 우테코 5기 프리코스 - 백엔드
+#### 우테코 5기 프리코스 - Java
 ***
 <a href="https://github.com/woowacourse-precourse/java-onboarding">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=woowacourse-precourse&repo=java-onboarding"/>
