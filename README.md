@@ -17,7 +17,7 @@ Just one of the developer in Korea.
 
 
 <!-- 주요 레포 -->
-#### <팀 프로젝트>
+#### 팀 프로젝트
 ***
 ### Ladder Project
 <a href="https://github.com/2022-SeongNam-Team-C/Ladder-Frontend">
@@ -35,13 +35,15 @@ Just one of the developer in Korea.
 
 
 
-#### <개인 프로젝트>
+#### 개인 프로젝트
+***
 <a href="https://github.com/HAERYN/Mymemo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HAERYN&repo=Mymemo"/>
 </a>
 
 
-#### <우테코 5기 프리코스 - 백엔드>
+#### 우테코 5기 프리코스 - 백엔드
+***
 <a href="https://github.com/woowacourse-precourse/java-onboarding">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=woowacourse-precourse&repo=java-onboarding"/>
 </a>
