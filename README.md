@@ -38,3 +38,12 @@ Just one of the developer in Korea.
 <a href="https://github.com/woowacourse-precourse/java-onboarding">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=woowacourse-precourse&repo=java-onboarding"/>
 </a>
+<a href="https://github.com/woowacourse-precourse/java-baseball">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=woowacourse-precourse&repo=java-baseball"/>
+</a>
+<a href="https://github.com/woowacourse-precourse/java-onboarding">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=woowacourse-precourse&repo=java-lotto"/>
+</a>
+<a href="https://github.com/woowacourse-precourse/java-bridge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=woowacourse-precourse&repo=java-bridge"/>
+</a>
