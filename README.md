@@ -33,7 +33,10 @@ Just one of the developer in Korea.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Techeer3-Spring-Study&repo=TAB-Frontend" />
 </a>
 
-
+### 혼자왔니 Project
+<a href="https://github.com/TecheerBootios/RUAlone-iOS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TecheerBootios&repo=RUAlone-iOS" />
+</a>
 
 #### 개인 프로젝트
 ***
