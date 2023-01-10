@@ -10,8 +10,8 @@ Just one of the developer in Korea.
 
 
 <!-- 언어 사용량 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAERYN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAERYN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
 
 <!-- 주요 레포 -->
