@@ -45,10 +45,10 @@ Just one of the developer in Korea.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2022-SeongNam-Team-C&repo=Ladder-Backend" />
 </a>
 
-#### 개인 프로젝트(기획단계)
+#### 해커톤
 ***
-<a href="https://github.com/HAERYN/Mymemo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HAERYN&repo=Mymemo"/>
+<a href="https://github.com/HAERYN/Good-Night-Hackathon-SpringBoot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HAERYN&repo=Good-Night-Hackathon-SpringBoot"/>
 </a>
 
 
