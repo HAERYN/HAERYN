@@ -29,20 +29,13 @@ Just one of the developer in Korea.
 </a>
 
 ### Waiter Project
-<a href="https://github.com/2022-Winter-Bootcamp-Team-D/react-repo">
+<a href="https://github.com/2022-Winter-Bootcamp-Team-D">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2022-Winter-Bootcamp-Team-D&repo=react-repo" />
-</a>
-<a href="https://github.com/2022-Winter-Bootcamp-Team-D/reactNative-repo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2022-Winter-Bootcamp-Team-D&repo=reactNative-repo" />
 </a>
 
 ### Ladder Project
-<a href="https://github.com/2022-SeongNam-Team-C/Ladder-Frontend">
+<a href="https://github.com/2022-SeongNam-Team-C">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2022-SeongNam-Team-C&repo=Ladder-Frontend" />
-</a>
-
-<a href="https://github.com/2022-SeongNam-Team-C/Ladder-Backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2022-SeongNam-Team-C&repo=Ladder-Backend" />
 </a>
 
 #### 해커톤
